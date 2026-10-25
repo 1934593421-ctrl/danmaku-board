@@ -1,0 +1,12 @@
+{
+  "name": "danmaku-board-server",
+  "version": "1.0.0",
+  "description": "弹幕画板多人房间中继服务",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.22.0"
+  }
+}

@@ -1,0 +1,15 @@
+# 依赖（4855 个文件，绝不入库）
+node_modules/
+
+# 日志
+*.log
+
+# 系统文件
+.DS_Store
+
+# 本地 WorkBuddy 配置 / 产物
+.workbuddy/
+*.genie
+
+# 本地环境变量
+.env
